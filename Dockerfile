@@ -8,4 +8,4 @@ WORKDIR /app
 COPY app.py .
 
 # Define the command to run your application
-CMD ["python", "apppp.py"]
+CMD ["python", "app.py"]
